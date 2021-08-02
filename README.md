@@ -5,12 +5,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglas_cezaro)](https://twitter.com/douglas_cezaro)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/douglascezaro/)](https://www.instagram.com/douglascezaro/)
 <center>
- <table>
-  <tr>
-   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Cezaro&show_icons=true&theme=ayu-mirage&layout=compact" /></td>
-   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Douglas-Cezaro&show_icons=true&theme=ayu-mirage&layout=compact" /></td>
-  </tr>
- </table>
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Cezaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Cezaro&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
 </center>
 
 ### About me <img src="https://github.com/devzgabriel/devzgabriel/blob/main/images/Hi.gif" width="30px">

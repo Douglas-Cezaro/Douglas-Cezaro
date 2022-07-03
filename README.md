@@ -12,6 +12,6 @@
 </center>
 
 ### About me
- Acadêmico de Sistema de Informação, apaixonado por tecnologia, em constante aprendizado. Atualmente trabalhando em minha própria empresa com a parceria de um amigo,  como desenvolvedor fullstack, busco estar sempre estudando aprendendo coisas novas, sem nenhum problema em aprender linguagens novas ou aprimorar o que já sei. Apaixonado por Hackathons, participei de 8 no total todos com experiências maravilhosas.
+ Formado em Sistema de Informação, apaixonado por tecnologia, em constante aprendizado. Atualmente trabalhando em minha própria empresa com a parceria de um amigo,  como desenvolvedor fullstack, busco estar sempre estudando aprendendo coisas novas, sem nenhum problema em aprender linguagens novas ou aprimorar o que já sei. Apaixonado por Hackathons, participei de 8 no total todos com experiências maravilhosas.
 
 ![](https://komarev.com/ghpvc/?username=Douglas-Cezaro&color=blue&style=flat)
